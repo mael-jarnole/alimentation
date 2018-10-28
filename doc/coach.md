@@ -32,3 +32,26 @@ Afin d'éviter de se resservir
 Avoir une meilleur satiété et lisser les apports de glycémie durant la journée.
 Exemples : Seitan, Tofu, Lait de soja, Flacon d'avoine ou Muesli de qualité
 
+### Calcul du métabolisme, calories brulées par jour
+
+![Calcul de BG Sport](https://github.com/mael-jarnole/alimentation/blob/master/doc/images/Calcul_BG_SPORT.jpg "Calcul de...")
+
+Note : Pas besoin d'énorme déficit sinon  on risque de taper dans le muscle plutôt que seulement la masse grasse.
+
+### Cibler la masse grasse lorsque l'on est dans la catégorie IMC normale
+
+Masse maigre faible, plus d'apport protéiques pour construire le muscle, acides aminés. RD ici.
+
+1) Eviter de sauter des repas
+2) Arriver sur un repas avec un appétit normal
+3) Trouver du temps pour manger des repas sains et équilibrés pour leur apport puis un élément gourmand, pas l'inverse
+
+### Jeune intermittent
+
+- /!\ Ce n'est pas sauter un repas !
+- C'est plutôt une longue période : de 20h à 13h par exemple
+- Meilleure brûlure de gras
+- Déficit automatique car impossible de tout combler tous ses apports de 13h à 20h où l'on mange
+- Il faut aboslument avoir ses 3 repas très complets pendant la période de non jeûne
+- Déconseillés aux plus jeunes et aux surpoids, risque de taper dans la masse maigre
+
