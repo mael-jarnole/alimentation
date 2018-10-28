@@ -55,3 +55,9 @@ Masse maigre faible, plus d'apport protéiques pour construire le muscle, acides
 - Il faut aboslument avoir ses 3 repas très complets pendant la période de non jeûne
 - Déconseillés aux plus jeunes et aux surpoids, risque de taper dans la masse maigre
 
+### Utiliser Pub med, resources scientifiques sur la médecine 
+
+- [Pub Med US avec accès bibliothèque de Toulouse](http://www.ncbi.nlm.nih.gov/sites/entrez?otool=ifrunitlib "Pub Med US")
+
+
+
